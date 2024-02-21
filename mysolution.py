@@ -49,10 +49,7 @@ plt.clf()
 
 
 # %%
-list = data[]
 
-players[[list[0]]].dtypes
-players.info()
 
 # %%
 #Printing each feature of players
